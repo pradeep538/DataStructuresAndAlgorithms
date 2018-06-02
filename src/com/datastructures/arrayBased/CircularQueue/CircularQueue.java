@@ -1,4 +1,4 @@
-package com.datastructures.arrayBasedCircularQueue;
+package com.datastructures.arrayBased.CircularQueue;
 
 public class CircularQueue<E> implements Queue<E> {
 	public static final int CAPACITY = 100;

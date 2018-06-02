@@ -1,4 +1,4 @@
-package com.datastructures.queue;
+package com.datastructures.arrayBased.queue;
 
 public class ArrayQueue<E> implements Queue<E>{
 	public static final int CAPACITY = 1000;

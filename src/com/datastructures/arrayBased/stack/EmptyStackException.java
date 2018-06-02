@@ -1,4 +1,4 @@
-package com.datastructures.stack;
+package com.datastructures.arrayBased.stack;
 
 public class EmptyStackException extends RuntimeException {
 	public EmptyStackException(String err) {
