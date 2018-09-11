@@ -1,4 +1,4 @@
-package com.datastructures.linkedList;
+package com.datastructures.singlyLinkedList;
 
 public class LinkedList<E> {
 	private int size = 0;
